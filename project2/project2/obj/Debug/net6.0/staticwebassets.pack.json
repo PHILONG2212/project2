@@ -1,0 +1,837 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\project2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\project2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\Hinh\\Loai\\3443547.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\3443547.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\.DS_Store",
+      "PackagePath": "staticwebassets\\shoppers\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\about.html",
+      "PackagePath": "staticwebassets\\shoppers\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\cart.html",
+      "PackagePath": "staticwebassets\\shoppers\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\checkout.html",
+      "PackagePath": "staticwebassets\\shoppers\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\contact.html",
+      "PackagePath": "staticwebassets\\shoppers\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\aos.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\css\\style.css",
+      "PackagePath": "staticwebassets\\shoppers\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\shoppers\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\children.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\children.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\cloth_1.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\cloth_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\cloth_2.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\cloth_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\cloth_3.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\cloth_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\hero_1.png",
+      "PackagePath": "staticwebassets\\shoppers\\images\\hero_1.png"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\men.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\shoe.png",
+      "PackagePath": "staticwebassets\\shoppers\\images\\shoe.png"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\shoe_1.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\shoe_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\shoppers\\images\\women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\index.html",
+      "PackagePath": "staticwebassets\\shoppers\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\aos.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\main.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\shoppers\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\prepros-6.config",
+      "PackagePath": "staticwebassets\\shoppers\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\shoppers\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\shop-single.html",
+      "PackagePath": "staticwebassets\\shoppers\\shop-single.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\shop.html",
+      "PackagePath": "staticwebassets\\shoppers\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\84948\\source\\repos\\project2\\project2\\wwwroot\\shoppers\\thankyou.html",
+      "PackagePath": "staticwebassets\\shoppers\\thankyou.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.project2.props",
+      "PackagePath": "build\\project2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.project2.props",
+      "PackagePath": "buildMultiTargeting\\project2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.project2.props",
+      "PackagePath": "buildTransitive\\project2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.project2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
